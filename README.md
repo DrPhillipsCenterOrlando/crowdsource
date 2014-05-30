@@ -1,4 +1,10 @@
-crowdsource
-===========
+# iwantto.hear
 
-Team making Crowdsource Artist Booking
+**Dev**
+> Mean Stack
+
+- `$ npm install`
+- `$ mongod`
+- `$ node server.js`
+
+
